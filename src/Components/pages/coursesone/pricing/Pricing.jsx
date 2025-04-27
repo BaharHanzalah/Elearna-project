@@ -9,7 +9,7 @@ import Logo4 from "../../../../assets/Home1/logo4.svg";
 import Logo5 from "../../../../assets/Home1/logo5.svg";
 import Logo6 from "../../../../assets/Home1/logo6.svg";
 import tack from "../../../../assets/Home1/Tick.svg";
-import tackc from "../../../../assets/Home1/Tickc.svg";
+import tackc from "../../../../assets/Home1/TickC.svg";
 import yellowcheck from "../../../../assets/Home1/yellowcheck.svg";
 import yellowcross from "../../../../assets/Home1/yellowcross.svg";
 import carton from "../../../../assets/Home1/carton.svg";
